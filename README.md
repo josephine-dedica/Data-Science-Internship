@@ -1,2 +1,2 @@
 # Data-Science-Internship
-Projects done during internship
+Project done during the period of internship
